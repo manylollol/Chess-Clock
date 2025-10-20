@@ -1,22 +1,45 @@
-# Chess Clock
+Components
 
-A digital chess clock built from scratch using microcontrollers, rotary encoders, LEDs, and an LCD display. Tracks time and turns for each player. Includes RGB indicators and a buzzer for alerts.
+Arduino Nano
 
-## Components
-- Arduino Nano
-- TM1637 Displays (2)
-- Rotary Encoders (2)
-- Push Buttons (4)
-- RGB LEDs (2)
-- Buzzer (1)
-- Wires and resistors as needed
+LCD Display (PCF8574-based)
 
-## Usage
-1. Assemble components according to wiring diagram.
-2. Upload the Arduino code to the microcontroller.
-3. Use the buttons to switch turns and monitor time. 
-4. Observe LED and buzzer alerts as time runs low.
+Rotary Encoders (2)
 
-## Notes
-- See journal entries for design, CAD models, and testing steps.
-- Ensure correct wiring for displays and buttons before powering on.
+Push Buttons (4)
+
+RGB LEDs (2)
+
+Buzzers (2)
+
+Wires and resistors as needed
+
+Features
+
+Large LCD display for clear time visibility
+
+Dual buzzers for separate player alerts
+
+RGB LEDs indicate active player and time warnings
+
+Turn counter for each player
+
+Compact and ergonomic layout for comfortable use
+
+Adjustable time settings via rotary encoders
+
+Usage
+
+Assemble all components according to the wiring diagram.
+
+Upload the Arduino code to the microcontroller.
+
+Use the player buttons to switch turns and track time accurately.
+
+Watch the LCD for time updates and listen for buzzer/LED alerts as time runs low.
+
+Notes
+
+See journal entries for design process, CAD models, and testing stages.
+
+Double-check all connections for the LCD and buzzers before powering the circuit.
