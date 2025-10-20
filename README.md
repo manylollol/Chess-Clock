@@ -1,4 +1,4 @@
-Components
+#Components
 
 Arduino Nano
 
@@ -14,7 +14,7 @@ Buzzers (2)
 
 Wires and resistors as needed
 
-Features
+#Features
 
 Large LCD display for clear time visibility
 
@@ -28,7 +28,7 @@ Compact and ergonomic layout for comfortable use
 
 Adjustable time settings via rotary encoders
 
-Usage
+#Usage
 
 Assemble all components according to the wiring diagram.
 
