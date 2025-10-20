@@ -1,11 +1,12 @@
-Component,Quantity,Notes,Price (USD)
-Arduino Nano,1,Main microcontroller,8
-LCD Display (PCF8574-based),1,Shows player time,10
-Rotary Encoder,2,Time adjustment controls,6
-Push Button,4,Player input,4
-RGB LED,2,Indicates active player,4
-Buzzers,2,Separate alerts for each player,4
-Wires,As needed,For connections,3
-Resistors,As needed,Used with LEDs and buttons,3
-PCB,1,For soldering the components together,5
-Power Source (9V or USB),1,Powers the system,3
+Component,Quantity,Notes,Price (baht) (Usd) 
+Arduino Nano,1,Main microcontroller,KIT - Includes everything,
+LCD Display (PCF8574-based),1,Shows player time,KIT - Includes everything,
+Rotary Encoder,2,Time adjustment controls,KIT - Includes everything,
+Push Button,4,Player input,KIT - Includes everything,
+RGB LED,2,Indicates active player,KIT - Includes everything,
+Buzzers,2,Separate alerts for each player,KIT - Includes everything,
+Wires,As needed,For connections,KIT - Includes everything,
+Resistors,As needed,Used with LEDs and buttons,KIT - Includes everything,
+PCB,1,For soldering the components together,KIT - Includes everything,
+Power Source (9V or USB),1,Powers the system,KIT - Includes everything,
+Totatal price,-,-,1341 baht,40.99 usd
