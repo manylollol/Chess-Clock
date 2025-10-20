@@ -1,11 +1,11 @@
-Component,Quantity,Notes
-Arduino Nano,1,Main microcontroller
-LCD Display (PCF8574-based),1,For showing player time and turn count
-Rotary Encoder,2,Used to adjust time settings
-Push Button,4,Two for player input and two for mode control
-RGB LED,2,Indicates active player and time warning
-Buzzer,2,Separate buzzers for each player
-Wires,As needed,For circuit connections
-Resistors,As needed,Used with LEDs and buttons
-Breadboard or PCB,1,For circuit assembly
-Power Source (9V or USB),1,To power the system
+Component,Quantity,Notes,Price (USD)
+Arduino Nano,1,Main microcontroller,8
+LCD Display (PCF8574-based),1,Shows player time,10
+Rotary Encoder,2,Time adjustment controls,6
+Push Button,4,Player input,4
+RGB LED,2,Indicates active player,4
+Buzzers,2,Separate alerts for each player,4
+Wires,As needed,For connections,3
+Resistors,As needed,Used with LEDs and buttons,3
+PCB,1,For soldering the components together,5
+Power Source (9V or USB),1,Powers the system,3
